@@ -1,0 +1,6 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\obj\Debug\Array_C_Project.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\bin\Debug\Array_C_Project.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\bin\Debug\Array_C_Project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\bin\Debug\Array_C_Project.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\obj\Debug\Array_C_Project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Array_C_Project\Array_C_Project\obj\Debug\Array_C_Project.pdb
