@@ -1,7 +1,5 @@
-C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\obj\Debug\Bool_project.csproj.AssemblyReference.cache
-C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\obj\Debug\Bool_project.csproj.CoreCompileInputs.cache
-C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\bin\Debug\Bool_project.exe.config
 C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\bin\Debug\Bool_project.exe
-C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\bin\Debug\Bool_project.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\bin\Debug\Bool_project.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\obj\Debug\Bool_project.csproj.CoreCompileInputs.cache
 C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\obj\Debug\Bool_project.exe
 C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Bool_project\Bool_project\obj\Debug\Bool_project.pdb

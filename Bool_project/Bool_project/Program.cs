@@ -12,12 +12,16 @@ namespace Bool_project
             bool myBool = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
             int ticket = Convert.ToInt32(Console.ReadLine());
-            if (age < 15 || ticket >= 3 || myBool != true);
+            if (age > 15 && ticket <= 3 && myBool == false)
+            {
+                Console.WriteLine("qualified");
+
+            }
+            else
             {
                 Console.WriteLine("unqualified");
-                Console.ReadLine();
             }
-          
+
         }
     }
 }
