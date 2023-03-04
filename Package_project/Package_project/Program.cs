@@ -22,11 +22,11 @@ namespace Package_project
             Console.WriteLine("What is the package length?");
             int length = Convert.ToInt32(Console.ReadLine());
             int x = width + height + length;
-            int D = length * height * width;
+            int D = length * height * width * weight;
             int total = D / 100;
             if (x > 50)
             {
-                Console.WriteLine("your Package is too heavy");
+                Console.WriteLine("Package too big to be shipped via Package Express");
             }
             else
             {
