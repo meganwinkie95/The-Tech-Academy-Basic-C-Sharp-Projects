@@ -1,0 +1,6 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\bin\Debug\Loops_C.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\bin\Debug\Loops_C.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\bin\Debug\Loops_C.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\obj\Debug\Loops_C.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\obj\Debug\Loops_C.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Loops_C\Loops_C\obj\Debug\Loops_C.pdb
