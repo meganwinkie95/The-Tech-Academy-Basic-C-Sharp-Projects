@@ -1,0 +1,6 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\obj\Debug\PolyMorph.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\bin\Debug\PolyMorph.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\bin\Debug\PolyMorph.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\bin\Debug\PolyMorph.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\obj\Debug\PolyMorph.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorph\PolyMorph\obj\Debug\PolyMorph.pdb
