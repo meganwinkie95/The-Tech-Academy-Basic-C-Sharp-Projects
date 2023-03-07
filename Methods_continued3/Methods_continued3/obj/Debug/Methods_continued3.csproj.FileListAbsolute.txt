@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\obj\Debug\Methods_continued3.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\obj\Debug\Methods_continued3.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\bin\Debug\Methods_continued3.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\bin\Debug\Methods_continued3.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\bin\Debug\Methods_continued3.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\obj\Debug\Methods_continued3.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Methods_continued3\Methods_continued3\obj\Debug\Methods_continued3.pdb
