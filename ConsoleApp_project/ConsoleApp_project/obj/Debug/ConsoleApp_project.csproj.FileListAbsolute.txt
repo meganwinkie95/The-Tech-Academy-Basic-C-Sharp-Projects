@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\bin\Debug\ConsoleApp_project.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\bin\Debug\ConsoleApp_project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\bin\Debug\ConsoleApp_project.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\obj\Debug\ConsoleApp_project.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\obj\Debug\ConsoleApp_project.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\obj\Debug\ConsoleApp_project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_project\ConsoleApp_project\obj\Debug\ConsoleApp_project.pdb

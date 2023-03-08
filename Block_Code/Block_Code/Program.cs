@@ -10,30 +10,36 @@ namespace Block_Code
     {
         static void Main(string[] args)
         {
-            /*variable decleration*/
-            int multiply, divide;
-            int userInput;
-            multiply = 192;
-            divide = 16;
-
-            /*getting user input*/
-            Console.WriteLine("Length of shower in minutes:");
-
-            userInput = int.Parse(Console.ReadLine());
-
-            int numBottlesMinute = multiply / divide;
-
-            Console.WriteLine("The amount of water used is:" + userInput * numBottlesMinute);
-            if(userInput > 15)
+            try
             {
-                Console.WriteLine("Take a shorter shower");
+
+
+                /*getting user input*/
+                List<int> nums = new List<int>() { 1, 2, 3, 4, 5 };
+                Console.WriteLine("Dividing number");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+
+                foreach (var i in nums)
+                {
+                    Console.WriteLine(i / num2);
+                }
+
             }
-            else
+            catch (FormatException ex)
             {
-                Console.WriteLine("Good job taking a shorter shower");
+                Console.WriteLine("Please write a whole number");
+                return;
             }
-            Console.ReadLine();
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Please don't divide by 0");
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
+        }
+            
 
         }
     }
-}
