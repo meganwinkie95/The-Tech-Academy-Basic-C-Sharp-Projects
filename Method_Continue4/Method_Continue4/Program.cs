@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,41 +7,34 @@ using System.Threading.Tasks;
 
 namespace Method_Continue4
 {
-    public class Person
+    public abstract class Person
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
-        public Person(string name, int age)
-        {
-            Name = name;
-            Age = age;
-        }
-        // Other properties, methods, events...
+        public string FName { get; set; }
+        public string LName { get; set; }
+
+       public abstract void SayName(string X, string y);
+
     }
-
-    class Program
+    public class Employee : Person
     {
-        static void Main()
-        {
-            Person person1 = new Person("Leopold", 6);
-            Console.WriteLine("person1 Name = {0} Age = {1}", person1.Name, person1.Age);
-
-            // Declare new person, assign person1 to it.
-            Person person2 = person1;
-
-            // Change the name of person2, and person1 also changes.
-            person2.Name = "Molly";
-            person2.Age = 16;
-
-            Console.WriteLine("person2 Name = {0} Age = {1}", person2.Name, person2.Age);
-            Console.WriteLine("person1 Name = {0} Age = {1}", person1.Name, person1.Age);
+        public override void SayName(string x, string y) { 
+            Console.WriteLine(x + " " + y);
             Console.ReadLine();
         }
     }
-    /*
-        Output:
-        person1 Name = Leopold Age = 6
-        person2 Name = Molly Age = 16
-        person1 Name = Molly Age = 16
-    */
+
+    public class Program
+    {
+
+        static void Main()
+        {
+            Employee name = new Employee();
+           name.FName = "sample";
+           name.LName = "student";
+           name.SayName(name.FName, name.LName);
+        }
+    }
 }
+
+
+
