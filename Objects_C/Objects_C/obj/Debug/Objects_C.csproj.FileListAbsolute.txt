@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\obj\Debug\Objects_C.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\obj\Debug\Objects_C.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\bin\Debug\Objects_C.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\bin\Debug\Objects_C.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\bin\Debug\Objects_C.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\obj\Debug\Objects_C.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Objects_C\Objects_C\obj\Debug\Objects_C.pdb
