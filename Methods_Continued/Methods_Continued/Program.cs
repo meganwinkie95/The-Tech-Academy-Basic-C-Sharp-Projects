@@ -6,29 +6,41 @@ using System.Linq;
 namespace EnumExtension
 {
     // Define an extension method in a non-nested static class.
-    public static class Extensions
+    public class Numbers
     {
-        public static Grades minPassing = Grades.D;
-        public static bool Passing(this Grades grade)
+        public int add(int x)
         {
-            return grade >= minPassing;
+            return x + 2;
+        }
+        public double dec1(double i)
+        {
+            return i;
+        }
+
+        public int mult(int x)
+        {
+            return x * 2;
         }
     }
 
-    public enum Grades { F = 0, D = 1, C = 2, B = 3, A = 4 };
     class Program
     {
         static void Main(string[] args)
         {
-            Grades g1 = Grades.D;
-            Grades g2 = Grades.F;
-            Console.WriteLine("First {0} a passing grade.", g1.Passing() ? "is" : "is not");
-            Console.WriteLine("Second {0} a passing grade.", g2.Passing() ? "is" : "is not");
-
-            Extensions.minPassing = Grades.C;
-            Console.WriteLine("\r\nRaising the bar!\r\n");
-            Console.WriteLine("First {0} a passing grade.", g1.Passing() ? "is" : "is not");
-            Console.WriteLine("Second {0} a passing grade.", g2.Passing() ? "is" : "is not");
+            // Call the constructor that has no parameters.
+            Console.WriteLine("Pick a number.");
+            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Pick a decimal number.");
+            double dec = Convert.ToDouble(Console.ReadLine());
+            Numbers y = new Numbers();
+            Numbers T = new Numbers();
+            Numbers R = new Numbers();
+            int solution3 = R.mult(number);
+            double solution2 = T.dec1(dec);
+            int solution1 = y.add(number);
+            Console.WriteLine(solution1);
+            Console.WriteLine(solution2);
+            Console.WriteLine(solution3);
             Console.ReadLine();
         }
         
