@@ -6,45 +6,38 @@ using System.Threading.Tasks;
 
 namespace Methods_continued3
 { 
-        class TheClass
+     class Method1
+    {
+       public void MyMethod(int k, out int x)
         {
-            public string willIChange;
+           x = 1;
+           x = k * x;
         }
 
-        struct TheStruct
+        public void MyMethod(int k)
         {
-            public string willIChange;
+            Console.WriteLine(k / 2);
         }
 
-        class TestClassAndStruct
-        {
-            static void ClassTaker(TheClass c)
+    }
+    public static class otherclass
+    {
+
+    }
+           
+    class Program
+    {
+
+        static void Main(string[] args)
             {
-                c.willIChange = "Changed";
-            }
+                Console.WriteLine("Pick a number");
+                int num1 = Convert.ToInt32(Console.ReadLine());
+                Method1 y = new Method1();
+                y.MyMethod(num1, out int x);
+                y.MyMethod(num1);
+                Console.WriteLine(x);
+                Console.ReadLine();
 
-            static void StructTaker(TheStruct s)
-            {
-                s.willIChange = "Changed";
-            }
-
-            public static void Main()
-            {
-                TheClass testClass = new TheClass();
-                TheStruct testStruct = new TheStruct();
-
-                testClass.willIChange = "Not Changed";
-                testStruct.willIChange = "Not Changed";
-
-                ClassTaker(testClass);
-                StructTaker(testStruct);
-
-                Console.WriteLine("Class field = {0}", testClass.willIChange);
-                Console.WriteLine("Struct field = {0}", testStruct.willIChange);
-
-                // Keep the console window open in debug mode.
-                Console.WriteLine("Press any key to exit.");
-                Console.ReadKey();
             }
         }
-}
+ }
