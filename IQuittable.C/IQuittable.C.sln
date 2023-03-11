@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQuittable.C", "IQuittable.C\IQuittable.C.csproj", "{D6172BD5-7C13-445C-8D62-04DB7F89B4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6172BD5-7C13-445C-8D62-04DB7F89B4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6172BD5-7C13-445C-8D62-04DB7F89B4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6172BD5-7C13-445C-8D62-04DB7F89B4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6172BD5-7C13-445C-8D62-04DB7F89B4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771B0F79-EAC9-4EF2-B7BE-F34C74DBD358}
+	EndGlobalSection
+EndGlobal

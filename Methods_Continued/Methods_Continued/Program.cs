@@ -5,21 +5,23 @@ using System.Linq;
 
 namespace EnumExtension
 {
-    // Define an extension method in a non-nested static class.
+    // Define multiple methods with the same name
     public class Numbers
     {
         public int add(int x)
         {
             return x + 2;
         }
-        public double dec1(double i)
+        public int add(decimal i)
         {
-            return i;
+            int y = Convert.ToInt32(i);
+            return y - 6;
         }
 
-        public int mult(int x)
+        public int add(string x)
         {
-            return x * 2;
+            int y = Convert.ToInt32(x);
+            return y * 2;
         }
     }
 
@@ -27,17 +29,17 @@ namespace EnumExtension
     {
         static void Main(string[] args)
         {
-            // Call the constructor that has no parameters.
+            // Call the methods
             Console.WriteLine("Pick a number.");
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Pick a decimal number.");
-            double dec = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Pick a decimal.");
+            decimal dec = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine("Pick a number.");
+            string str = (Console.ReadLine());
             Numbers y = new Numbers();
-            Numbers T = new Numbers();
-            Numbers R = new Numbers();
-            int solution3 = R.mult(number);
-            double solution2 = T.dec1(dec);
-            int solution1 = y.add(number);
+            int solution3 = y.add(number);
+            int solution2 = y.add(dec);
+            int solution1 = y.add(str);
             Console.WriteLine(solution1);
             Console.WriteLine(solution2);
             Console.WriteLine(solution3);
@@ -47,11 +49,5 @@ namespace EnumExtension
     }
 }
 /* Output:
-    First is a passing grade.
-    Second is not a passing grade.
-
-    Raising the bar!
-
-    First is not a passing grade.
-    Second is not a passing grade.
+   
  */
