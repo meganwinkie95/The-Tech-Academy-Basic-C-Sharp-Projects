@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Interface_assignment
 {
-   interface IQuittable
+   public interface IQuittable
     {
         void Quit();
     }
@@ -24,7 +24,7 @@ namespace Interface_assignment
 
         static void Main()
         {
-            Employee name = new Employee();
+            IQuittable name = new Employee();
             name.Quit();
             Console.ReadLine();
         }
