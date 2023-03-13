@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.pdb
