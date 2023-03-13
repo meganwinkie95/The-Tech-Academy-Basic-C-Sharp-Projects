@@ -35,21 +35,36 @@ namespace Method_Continue4
                 new Employee{ ID = 10, FName = "Joe" },
             
         };
+            List<Employee> details2 = new List<Employee>();
+            details2 = details.Where(x => x.FName == "Joe").ToList();
+            Console.ReadLine();
 
 
-            // To sort the details list
-            // based on name of student
-            // in ascending order
-            var newDetails = details.OrderBy(x => x.ID);
+            //var newDetails1 = details.OrderBy(x => x.FName);
 
-            foreach (var value in newDetails)
-            {
-                if(value.ID > 5)
-                {
-                    Console.WriteLine(value.ID + " " + value.FName);
-                    Console.ReadLine();
-                }
-            }
+            //foreach (var value in newDetails1)
+            //{
+            //    if (value.FName == "Joe")
+            //    {
+            //        Console.WriteLine(value.ID + " " + value.FName);
+            //        Console.ReadLine();
+            //    }
+            //}
+
+
+            //// To sort the details list
+            //// based on name of student
+            //// in ascending order
+            List<Employee> newDetails = details.Where(x => x.ID > 5).ToList();
+
+            //foreach (var value in newDetails)
+            //{
+            //    if(value.ID > 5)
+            //    {
+            //        Console.WriteLine(value.ID + " " + value.FName);
+            //        Console.ReadLine();
+            //    }
+            //}
 
 
         }
