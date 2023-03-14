@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\DateTime_Assignment.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\DateTime_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\DateTime_Assignment.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\DateTime_Assignment.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\DateTime_Assignment.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\DateTime_Assignment.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\DateTime_Assignment.pdb
