@@ -30,7 +30,7 @@ namespace CarInsurance_3.Controllers
             {
                 insuree.Quote += 100;
             }
-                if (age >= 19 || age <= 25)
+                if (age >= 19 && age <= 25)
                 {
                     insuree.Quote += 50;
                 }
@@ -62,11 +62,11 @@ namespace CarInsurance_3.Controllers
                 if (c == true)
                 {
 
-                    insuree.Quote *= 1.5m;
+                    insuree.Quote *= 1.25m;
                 }
                 if (d == true)
                 {
-                    insuree.Quote *= 2.5m;
+                    insuree.Quote *= 1.5m;
                
                 }
               
