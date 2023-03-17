@@ -1,0 +1,12 @@
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\obj\Debug\Console_app_project.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\obj\Debug\Console_app_project.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\Console_app_project.exe.config
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\Console_app_project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\Console_app_project.pdb
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\EntityFramework.dll
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\EntityFramework.xml
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\obj\Debug\Console_app_project.csproj.CopyComplete
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\obj\Debug\Console_app_project.exe
+C:\Users\megan\OneDrive\Desktop\Basic_C#_Programs\The-Tech-Academy-Basic-C-Sharp-Projects\Console_app_project\Console_app_project\obj\Debug\Console_app_project.pdb
