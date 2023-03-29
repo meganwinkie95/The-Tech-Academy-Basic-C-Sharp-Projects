@@ -1,5 +1,5 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-This Repository contains C# coe examples.
+This Repository contains C# code examples.
 
 CarInsurance_3 is a MVC C# demo on creating a database that returns a calculated result depending on user information.
 
